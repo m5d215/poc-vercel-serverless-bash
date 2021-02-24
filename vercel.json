@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/**/*.sh": {
+      "runtime": "vercel-bash@3.0.8"
+    }
+  }
+}
